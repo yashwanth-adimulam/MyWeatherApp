@@ -11,6 +11,7 @@ This application was built using:
 
 This is a very simple interface that tell about the current temperature and weather and the time it got updated and the local.
 The bottom section of the screen shows additional information such as sunrise and sunset times, wind speed, atmospheric pressure and humidy levels.
+And at the end it shows my name the creator of the app.
 
 It also has a presonal touch by adding a button that takes to my GitHub page.
 
